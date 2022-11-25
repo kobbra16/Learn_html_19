@@ -1,0 +1,15 @@
+h1,
+p {
+    color: black;
+}
+
+p {
+    width: 500px;
+    text-align: justify;
+    font-weight: bold;
+}
+
+body {
+    background: url(http://old.code.mu/exercises/css/osnovy-raboty-s-fonom-cherez-css-dlya-novichkov/2/fon1.jpg)fixed;
+    background-image: url(http://old.code.mu/exercises/css/osnovy-raboty-s-fonom-cherez-css-dlya-novichkov/2/fon1.jpg);
+}
